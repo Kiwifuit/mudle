@@ -7,6 +7,8 @@
 
 # MoodleTUI.rs
 
+The unofficial TUI for Moodle
+
 This project is a rewrite of the original Moodle TUI repository, only that its more portable than ever
 
 - [MoodleTUI.rs](#moodletuirs)
