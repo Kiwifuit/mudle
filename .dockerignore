@@ -1,0 +1,9 @@
+**/docker-compose*
+**/compose*
+**/Dockerfile*
+README.md
+
+.vscode
+**/target
+Cargo.lock
+.git*

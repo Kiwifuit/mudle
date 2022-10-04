@@ -1,0 +1,10 @@
+version: '3.4'
+
+services:
+  moodletui:
+    image: moodletui
+    volumes:
+      - mtui-data:/app/res:rw
+    build:
+      context: .
+      dockerfile: ./Dockerfile
