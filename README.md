@@ -9,7 +9,7 @@
 
 The unofficial TUI for Moodle
 
-This project is a rewrite of the original Moodle TUI repository, only that its more portable than ever
+This project is a rewrite of [the original Moodle TUI](https://github.com/Kiwifuit/MoodleTUI) repository, only that its more portable than ever
 
 - [MoodleTUI.rs](#moodletuirs)
   - [Comparison between this and the original Moodle TUI Project](#comparison-between-this-and-the-original-moodle-tui-project)
