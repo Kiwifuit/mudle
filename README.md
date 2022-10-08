@@ -1,10 +1,3 @@
-<!--
- Copyright (c) 2022 Misery <mahkiwi123@gmail.com>
-
- This software is released under the MIT License.
- https://opensource.org/licenses/MIT
--->
-
 # MoodleTUI.rs
 
 The unofficial TUI for Moodle
