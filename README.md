@@ -70,18 +70,9 @@ docker run -it -v mtui-data:/app/res:rw mtui:latest
 git clone https://github.com/Kiwifuit/mtui-rs
 cd mtui-rs
 cargo build --release
-```
-On linux:
-```
+
 mv target/release/mtui ..
-```
 
-On windows:
-```
-mv target/release/mtui.exe ..
-```
-
-```
 cd ..
 rm -vrf mtui-rs
 ./mtui
