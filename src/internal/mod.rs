@@ -1,3 +1,6 @@
+#[macro_use]
+mod macros;
+
 pub mod config;
 pub mod crypto;
 pub mod data;
