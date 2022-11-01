@@ -5,5 +5,5 @@ fn main() {
         println!("Running inside a docker image");
     }
 
-    println!("Hello world!")
+    let res = ureq::get(internal::api_endpoint!(""))
 }
